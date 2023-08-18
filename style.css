@@ -1,0 +1,37 @@
+*{
+    color: darkviolet;
+}
+h3{
+   color: chocolate; 
+}
+.one{
+    color:#7AB4B1;
+}
+#gen{
+    color:red;
+
+}
+.table th {
+    color: rgba(16, 139, 161, 0.708);
+}
+.sample>li{
+    color: rgba(81, 49, 11, 0.811);
+}
+.color{
+    color: aqua;
+}
+.color:hover{
+    color:rgb(227, 151, 151);
+}
+.color:active{
+    color:rgba(73, 43, 95, 0.904);
+}
+.color:visited{
+    color:black;
+}
+.pseudo::before{
+    content:"I'M not a HUMAN.I'M a ";
+}
+.pseudo::after{
+    content:".";
+}
